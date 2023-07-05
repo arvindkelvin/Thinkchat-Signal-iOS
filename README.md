@@ -1,4 +1,4 @@
-# Signal iOS
+# Thinkchat - Signal iOS
 
 Signal is a free, open source, messaging app for simple private communication with friends. 
 
@@ -6,6 +6,7 @@ Signal is a free, open source, messaging app for simple private communication wi
 
 Also available on [Android](https://github.com/signalapp/signal-android) and [Desktop](https://github.com/signalapp/signal-desktop).
 
+This project will be launched using Flutter where a single codebase will exist for both.
 ## Questions?
 
 For troubleshooting and questions, please visit our [support center](https://support.signal.org/) or [unofficial community forum](https://community.signalusers.org/).
